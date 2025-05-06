@@ -14,8 +14,6 @@ Project Structure
 
 Contributing
 
-License
-
 Features
 User-Friendly Interface: Developed with JavaFX to ensure a smooth and intuitive user experience.
 
